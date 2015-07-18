@@ -4,14 +4,14 @@ Pushit is an open-source WebSocket engine written in elixir.
 
 ## Getting Started
 
-1. Install dependencies
+Install dependencies
 
     mix deps.get
 
-2. Start the server
+Start the server
 
     mix phoenix.server
 
-3. Open the homepage
+Open the homepage
 
     open localhost:4000
