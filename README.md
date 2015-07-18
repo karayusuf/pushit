@@ -1,8 +1,17 @@
-# Pushit
+# What is Pushit
 
-To start your new Phoenix application:
+Pushit is an open-source WebSocket engine written in elixir.
 
-1. Install dependencies with `mix deps.get`
-2. Start Phoenix endpoint with `mix phoenix.server`
+## Getting Started
 
-Now you can visit `localhost:4000` from your browser.
+1. Install dependencies
+
+    mix deps.get
+
+2. Start the server
+
+    mix phoenix.server
+
+3. Open the homepage
+
+    open localhost:4000
